@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- I'm an Undergraduate at [University of Jaffna](University of Jaffna)
+- I'm an Undergraduate at University of Jaffna
 
 - 📝 I regularly write articles on [https://medium.com/@sithumimadhushika2020](https://medium.com/@sithumimadhushika2020)
 
